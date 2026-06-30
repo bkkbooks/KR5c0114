@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0114/ZTDZ/v1/juan/5
+seq: 5
+front:
+  text: 道德眞經廣聖義卷之四
+  hash: sha256:7b7ebd387d53e7e4389457829503cf2b02f635f9a9dae5af05dcc4ee1d144353
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0114_SJB_005-140336c, image: sjb/14/140336c.png}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道德真經廣聖義
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 00:25:13.032161'
+  source:
+    repository: kanripo
+    path: KR5c0114/KR5c0114_005.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:ade235ddea7af75d595171f6502ff9904f6c8d146e17d69749e53ee298f30efc

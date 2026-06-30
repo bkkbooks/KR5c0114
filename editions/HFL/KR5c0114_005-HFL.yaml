@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0114/HFL/v1/juan/5
+seq: 5
+front:
+  text: 道德眞經廣聖義卷之四
+  hash: sha256:7b7ebd387d53e7e4389457829503cf2b02f635f9a9dae5af05dcc4ee1d144353
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0114_HFL_005-001a, image: hfl/0441/0441-004.png}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道德真經廣聖義
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 00:25:13.032161'
+  source:
+    repository: kanripo
+    path: KR5c0114/KR5c0114_005.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:65c2fa96b01221f904ed9d9e03fe6ad2118b6cfe8f3c1a612a72188fc8650c34
