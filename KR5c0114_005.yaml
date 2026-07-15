@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR5c0114/krp/v1/juan/5
 seq: 5
 front:
-  text: 道德眞經廣聖義卷之四
-  hash: sha256:7b7ebd387d53e7e4389457829503cf2b02f635f9a9dae5af05dcc4ee1d144353
+  text: 道德真經廣聖義卷之四
+  hash: sha256:9f835722dac459663b8049bd9a10a44e56f5040ec1708e545c045b237b98db56
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5c0114_HFL_005-001a, image: hfl/0441/0441-004.png}
 body:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     WYG: http://img.kanripo.org/general/skqs/wyg/
-hash: sha256:ea77bb0befdf2b1af005d21712d81827898c31009ef72611197eace5a737c033
+hash: sha256:91f41a6a93a3bb6173c711580b5848d4a88b148f5ae9a1fc2e183491c92b32bb
