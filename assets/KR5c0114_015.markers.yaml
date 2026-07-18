@@ -21,6 +21,7 @@ markers:
   - {type: indent, offset: 9, content: 　　　, id: KR5c0114_krp_015-bkkind2}
   - {type: punctuation, offset: 17, content: (, id: KR5c0114_krp_015-bkkpn1}
   - {type: substitution, offset: 17, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
+  - {type: voice, offset: 17, length: 125, name: note, id: n1}
   - {type: punctuation, offset: 23, content: /, id: KR5c0114_krp_015-bkkpn2}
   - {type: substitution, offset: 23, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 29, content: ), id: KR5c0114_krp_015-bkkpn3}
@@ -1019,6 +1020,7 @@ markers:
   - {type: substitution, offset: 2425, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2431, content: (, id: KR5c0114_krp_015-bkkpn19}
   - {type: substitution, offset: 2431, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
+  - {type: voice, offset: 2431, length: 154, name: note, id: n2}
   - {type: punctuation, offset: 2436, content: /, id: KR5c0114_krp_015-bkkpn20}
   - {type: punctuation, offset: 2441, content: ), id: KR5c0114_krp_015-bkkpn21}
   - {type: 'kr:newline', offset: 2441, content: '
@@ -2404,4 +2406,4 @@ markers:
 
       ', id: KR5c0114_krp_015-bkkkrnewl437}
   back: []
-hash: sha256:36cb61d58c04569aac4896aa2fb74b994efd27f708589835076c992a2c293dc8
+hash: sha256:abb58e58fb00541ac876bfaf0fda02b9c2a86068d8a2d8738b7b6e840614589a

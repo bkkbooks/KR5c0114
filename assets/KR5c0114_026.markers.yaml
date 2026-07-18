@@ -21,6 +21,7 @@ markers:
   - {type: indent, offset: 9, content: 　　　, id: KR5c0114_krp_026-bkkind2}
   - {type: punctuation, offset: 18, content: (, id: KR5c0114_krp_026-bkkpn1}
   - {type: substitution, offset: 18, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
+  - {type: voice, offset: 18, length: 161, name: note, id: n1}
   - {type: punctuation, offset: 23, content: /, id: KR5c0114_krp_026-bkkpn2}
   - {type: punctuation, offset: 28, content: ), id: KR5c0114_krp_026-bkkpn3}
   - {type: 'kr:newline', offset: 28, content: '
@@ -777,6 +778,7 @@ markers:
   - {type: indent, offset: 1948, content: 　, id: KR5c0114_krp_026-bkkind122}
   - {type: punctuation, offset: 1956, content: (, id: KR5c0114_krp_026-bkkpn22}
   - {type: substitution, offset: 1956, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20393}}
+  - {type: voice, offset: 1956, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 1958, content: /, id: KR5c0114_krp_026-bkkpn23}
   - {type: punctuation, offset: 1959, content: ), id: KR5c0114_krp_026-bkkpn24}
   - {type: 'kr:newline', offset: 1965, content: '
@@ -1565,4 +1567,4 @@ markers:
 
       ', id: KR5c0114_krp_026-bkkkrnewl285}
   back: []
-hash: sha256:bfe492d72984a7cf58090b579980e938491769a0e2ad76bb94f78dcb62f5949c
+hash: sha256:524b010099cfe1574998612832e57364b7fff76c64db60460242d5c7d0c3623b

@@ -21,6 +21,7 @@ markers:
   - {type: indent, offset: 9, content: 　　　, id: KR5c0114_krp_009-bkkind2}
   - {type: punctuation, offset: 15, content: (, id: KR5c0114_krp_009-bkkpn1}
   - {type: substitution, offset: 15, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
+  - {type: voice, offset: 15, length: 153, name: note, id: n1}
   - {type: punctuation, offset: 23, content: /, id: KR5c0114_krp_009-bkkpn2}
   - {type: punctuation, offset: 31, content: ), id: KR5c0114_krp_009-bkkpn3}
   - {type: 'kr:newline', offset: 31, content: '
@@ -1962,6 +1963,7 @@ markers:
   - {type: substitution, offset: 4775, original: 冲, replacement: 沖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16379}}
   - {type: punctuation, offset: 4782, content: (, id: KR5c0114_krp_009-bkkpn19}
   - {type: substitution, offset: 4782, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
+  - {type: voice, offset: 4782, length: 133, name: note, id: n2}
   - {type: punctuation, offset: 4788, content: /, id: KR5c0114_krp_009-bkkpn20}
   - {type: substitution, offset: 4791, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4794, content: ), id: KR5c0114_krp_009-bkkpn21}
@@ -2568,4 +2570,4 @@ markers:
 
       ', id: KR5c0114_krp_009-bkkkrnewl461}
   back: []
-hash: sha256:7ad6002908f49aa2fe44a4c0a1ebba3b89fcf3761f717bb678fb2e8c4f4a8e6e
+hash: sha256:4f8dcc0213b3f0953bdd992608f76e41a180e49f47d59cb0c1df110d6b79c277
