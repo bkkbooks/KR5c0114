@@ -1,13 +1,12 @@
 canonical_identifier: bkk:krp/KR5c0114/ZTDZ/v1/markers/5
 seq: 5
 markers:
-  front:
+  body:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR5c0114_ZTDZ_005-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR5c0114_SJB_005-140336c01}
-  body:
-  - {type: paragraph-break, offset: 0, content: '
+  - {type: paragraph-break, offset: 10, content: '
 
 
 
@@ -17,9 +16,9 @@ markers:
 
 
       ', id: KR5c0114_ZTDZ_005-bkkp1}
-  - {type: line-break, offset: 0, content: '', id: KR5c0114_SJB_005-140336c02}
-  - {type: indent, offset: 0, content: 　　　　　　　　　　　　　　　, id: KR5c0114_ZTDZ_005-bkkind1}
-  - {type: paragraph-break, offset: 0, content: '
+  - {type: line-break, offset: 10, content: '', id: KR5c0114_SJB_005-140336c02}
+  - {type: indent, offset: 10, content: 　　　　　　　　　　　　　　　, id: KR5c0114_ZTDZ_005-bkkind1}
+  - {type: paragraph-break, offset: 10, content: '
 
 
 
@@ -32,4 +31,4 @@ markers:
 
       ', id: KR5c0114_ZTDZ_005-bkkp2}
   back: []
-hash: sha256:f01c3266ffa0e4d49bbcb03b32435f55b60cca9024324aeed560e37d03ede1eb
+hash: sha256:2c4972374f9edf05a7033ba57393e5588e0d37039b21a83c948185a5fa5bd5a9
